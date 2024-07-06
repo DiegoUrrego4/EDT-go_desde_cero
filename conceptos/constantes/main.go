@@ -24,10 +24,12 @@ const (
 )
 
 func main() {
-	// Para declarar la variable se usa una keyword distinta
-	// En las constantes DEBEMOS inicializarlas de forma inmediata cuando las declaramos
-	// Este valor NO PUEDE modificarse luego de esta línea
-	// Las constantes NO NECESITAN SER USADAS para su compilación
+	/*
+		Para declarar la variable se usa una keyword distinta
+		En las constantes DEBEMOS inicializarlas de forma inmediata cuando las declaramos
+		Este valor NO PUEDE modificarse luego de esta línea
+		Las constantes NO NECESITAN SER USADAS para su compilación
+	*/
 
 	// Forma N.º 1 - una sola variable usando keyword y tipo
 	/*
